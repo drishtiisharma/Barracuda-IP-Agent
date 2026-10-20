@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+
+build/
+dist/
+
+data/*.db
+data/*.db-*
+config/profile.json
+output/*
+!output/.gitkeep
+
+agent_log.txt
+crash_log.txt
